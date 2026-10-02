@@ -1,0 +1,9 @@
+{
+  "id": "omni-notes",
+  "name": "Omni Notes Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Sync this vault with the omni-notes server: revisions, three-way merge, conflict copies, nothing lost.",
+  "author": "Lincoln",
+  "isDesktopOnly": false
+}
